@@ -62,8 +62,6 @@ producte: prototip final
 
 - El client s'implica en el proces
 
-- Relativament car
-
 - Requereix control de versions
 
 
