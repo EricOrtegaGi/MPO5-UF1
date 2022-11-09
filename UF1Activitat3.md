@@ -68,9 +68,6 @@ producte: prototip final
 
 - Requereix control de versions
 
-- Requereix autodisciplina en l'aplicacio
-
-
 
 ## Per quins projectes és més adequat…
 
