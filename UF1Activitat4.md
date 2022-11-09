@@ -136,4 +136,16 @@ Disponible tansols per a:
 5. depuracio amb una interfaç facil i intiuitiva
 6. no requereix d'un entorn d'execucio de java per executarse
 
+a. Escriu el seu nom.
+### DrJava
+b. Mira per quin sistema operatiu estan disponibles.
+**Linux, Windows, Mac OS**
+c. Busca les instruccions d’instal·lació.
+- Dependencies:
+```
+sudo apt-get install openjdk-16-jdk openjdk-16-jre
+```
+d. Fes una llista de les característiques que té.
+e. Té alguna característica ÚNICA?
+
 ## Busca el nom dels 5 IDEs de desenvolupament de PYTHON més utilitzats
