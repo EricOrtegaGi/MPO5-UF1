@@ -151,19 +151,43 @@ e. Té alguna característica ÚNICA?
 ## Busca el nom dels 5 IDEs de desenvolupament de PYTHON més utilitzats
 
 ### Programiz
+![image](https://user-images.githubusercontent.com/114953110/202115355-add53259-3619-4555-b751-8d342e85dc52.png)
 
 Esta disponible per a 
 
-Instal·laco
+Instal·lacio
 
 ### Idle ###
+![image](https://user-images.githubusercontent.com/114953110/202115397-a13fbf50-cf58-4c2b-8268-cf582ad3a2d0.png)
+
+Windows, Unix, i macOS
 
 Esta disponible per a 
 
-Instal·laco
+Instal·lacio
+
+```
+sudo apt-get install idle3
+```
 
 ### Atom ###
+![image](https://user-images.githubusercontent.com/114953110/202115435-4df63e8e-13a8-4b21-8425-92b9e772ed5d.png)
 
 Esta disponible per a 
 
-Instal·laco
+Mac, Windows, Linux
+
+Instal·lacio
+
+```
+wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add 
+```
+
+```
+sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
+```
+
+```
+sudo apt-get install atom
+```
+
