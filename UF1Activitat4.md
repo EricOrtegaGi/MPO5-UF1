@@ -149,3 +149,21 @@ d. Fes una llista de les característiques que té.
 e. Té alguna característica ÚNICA?
 
 ## Busca el nom dels 5 IDEs de desenvolupament de PYTHON més utilitzats
+
+### Programiz
+
+Esta disponible per a 
+
+Instal·laco
+
+### Idle ###
+
+Esta disponible per a 
+
+Instal·laco
+
+### Atom ###
+
+Esta disponible per a 
+
+Instal·laco
