@@ -28,9 +28,10 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 ![image](https://user-images.githubusercontent.com/114953110/204743467-d995c8ac-3ec2-4940-a564-5fe32b6bbc7e.png)
   - **Diagrama:**
 
- ![Diagrama sense títol (1)](https://user-images.githubusercontent.com/114953110/204738302-f2e75b9b-8450-4d1c-892e-92644d2fdf55.jpg)
+![Diagrama sense títol (3)](https://user-images.githubusercontent.com/114953110/204749441-def8271e-b527-467f-b871-564907fb9998.jpg)
+
   - **Resultat CC:**
-  - 8 - 7 + 2 = 3
+  - 2 sentencies condicionals + 1 = 3
 
 3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
 
@@ -56,7 +57,11 @@ public class proves {
 ```
 
   - **Diagrama:**
+![Diagrama sense títol (2)](https://user-images.githubusercontent.com/114953110/204748111-95cc177e-4664-4bbd-9c47-11e70396a569.jpg)
+
+
   - **Resultat CC:**
+  - 4 sentencies condicionals + 1 = 5
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
@@ -70,8 +75,15 @@ public class proves {
     }
 ```
   - **Diagrama:**
+![Diagrama sense títol (5)](https://user-images.githubusercontent.com/114953110/204754919-f6175452-e762-41b5-8937-44f8077c323f.jpg)
+
+
   - **Resultat CC:**
+  - 2 sentencies condicionals + 1 = 3
   - **Resultat proves camins:**
+  - 1: hora >= 20 llums = true, return llums
+  - 2: hora <= 8, llums = true, return llums
+  - 3: hora > 8 --> hora < 20 --> llums false, return llums
 
 5. Investiga sobre les proves de caixa negra:
 
