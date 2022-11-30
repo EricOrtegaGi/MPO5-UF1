@@ -11,15 +11,15 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 
   - **Resultat 1:**
 
-16-14+2 = 4
+16 - 14 + 2 = 4
 
   - **Resultat 2:**
 
-16-14+2 = 4
+16 - 14 + 2 = 4
 
   - **Resultat 3:**
 
-8-6+2 = 4
+8 - 6 + 2 = 4
 
 
 2. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
@@ -55,7 +55,9 @@ public class proves {
   - **Resultat CC:**
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
+![Diagrama sense títol](https://user-images.githubusercontent.com/114953110/204737975-c2b15d04-1f18-408d-939c-5128b6a68d44.jpg)
 
+7 - 7 + 2 = 2
 ```
     public static Boolean llumsEncesos(int hora) {
         Boolean llums = false;
