@@ -11,7 +11,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 
   - **Resultat 1:**
 
-16-10+2 = 8
+16-14+2 = 4
 
   - **Resultat 2:**
 
