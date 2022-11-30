@@ -88,4 +88,8 @@ public class proves {
 5. Investiga sobre les proves de caixa negra:
 
   - Què són?
+  - Es el metode de probes que es realitza a un element estudiat desde el punt de vista de les entrade que reb i les sortides o respostes que produeix
+
   - Quina diferència principal tenen sobre les de caixa blanca?
+
+  - la diferencia principal entre aquests dos metodes de probes es que en el de caixa negra desconeixem la estructura disseny o implementacio interna dels elements que estem probant 
