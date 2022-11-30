@@ -23,7 +23,9 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 
 
 2. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
-  - ![image](https://user-images.githubusercontent.com/110727546/204615125-363e5e6c-173b-4ec0-8c0b-cb97985ade06.png)
+ ![Diagrama sense títol (1)](https://user-images.githubusercontent.com/114953110/204738302-f2e75b9b-8450-4d1c-892e-92644d2fdf55.jpg)
+
+7 - 7 + 2 = 2
 
   - **Diagrama:**
   - **Resultat CC:**
