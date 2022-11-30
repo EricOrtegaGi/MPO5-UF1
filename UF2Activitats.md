@@ -7,6 +7,8 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
   - ![image](https://user-images.githubusercontent.com/110727546/204613180-6d55bf09-28b8-417e-96f4-f71a762ac44c.png)
   - ![image](https://user-images.githubusercontent.com/110727546/204655229-8c3f28d7-3d8b-4746-a55d-331f89da39d2.png)
 
+x camins - y nodes + 2 = z
+
   - **Resultat 1:**
 
 16-10+2 = 8
