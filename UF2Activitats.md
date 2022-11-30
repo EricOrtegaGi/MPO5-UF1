@@ -57,9 +57,7 @@ public class proves {
   - **Resultat CC:**
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
-![Diagrama sense títol](https://user-images.githubusercontent.com/114953110/204737975-c2b15d04-1f18-408d-939c-5128b6a68d44.jpg)
 
-7 - 7 + 2 = 2
 ```
     public static Boolean llumsEncesos(int hora) {
         Boolean llums = false;
